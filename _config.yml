@@ -12,7 +12,7 @@ github_repo: "https://github.com/lqsgd123/lqsgd123.github.io" # you code reposit
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "keeping quiet will help you make a fortune"
-sidebar-avatar: /img/DSC_6824 副本.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: http://ww1.sinaimg.cn/large/9cc52ef9gy1fw7h88ld6yj20xa103q5p.jpg     # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
